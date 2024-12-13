@@ -1,18 +1,18 @@
 export const roadmapData = [
     {
         phase: "Phase 1",
-        description: "Launch PixelGrid with a fair and transparent rollout. Establish the foundation of a strong, AI-driven community."
+        description: "Launch BytePulse with a transparent, community-first approach. Establish a foundation for decentralized innovation and empower individuals to be part of the digital future."
     },
     {
         phase: "Phase 2",
-        description: "Get listed on decentralized exchanges (DEX). Release the first PixelGrid-themed AI-generated NFT collection inspired by neural networks and digital art."
+        description: "List BytePulse on decentralized exchanges (DEX). Introduce BytePulse-powered decentralized applications (dApps) and launch the first community-driven governance proposals."
     },
     {
         phase: "Phase 3",
-        description: "Introduce staking and utility features for PixelGrid holders. Collaborate with AI innovators, tech creators, and artists to expand awareness."
+        description: "Roll out staking and utility features for BytePulse holders. Partner with blockchain innovators and tech leaders to expand the reach and functionality of the BytePulse ecosystem."
     },
     {
         phase: "Phase 4",
-        description: "Scale globally with community-driven initiatives. Explore integrations with AI tools and platforms, expanding PixelGrid’s utility and impact."
+        description: "Expand BytePulse globally with community-led initiatives. Integrate with emerging blockchain platforms and decentralized technologies, amplifying BytePulse’s utility and impact in the decentralized economy."
     },
 ];

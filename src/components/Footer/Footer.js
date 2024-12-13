@@ -5,15 +5,15 @@ const Copyright = () => {
 
     return (
         <FooterWrapper>
-            <p>&copy; {currentYear} PixelGrid. All Rights Reserved.</p>
+            <p>&copy; {currentYear} BytePulse. All Rights Reserved.</p>
             <p>
                 Built with <span>❤️</span> for the community. <br />
                 Follow us on{" "}
-                <a href="https://x.com/NeuroGrid1" target="_blank" rel="noopener noreferrer">
+                <a href="https://x.com/BytePulse1" target="_blank" rel="noopener noreferrer">
                     X
                 </a>{" "}
                 and{" "}
-                <a href="https://t.me/+lDlEvpHhZA9mYWUy" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/+alidq1Yn4OY3MmQy" target="_blank" rel="noopener noreferrer">
                     Telegram
                 </a>
                 .

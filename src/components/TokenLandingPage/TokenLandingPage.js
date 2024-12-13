@@ -1,6 +1,6 @@
 import { gsap } from "gsap";
 import { useEffect, useRef } from "react";
-import wagImg from "../../assets/images/el.png";
+import wagImg from "../../assets/images/eee-modified.png";
 import { useHistory } from 'react-router-dom';
 import {
     Content,
@@ -90,10 +90,10 @@ const StarryTokenLanding = () => {
         <LandingContainer>
             <Universe ref={universeRef} />
             <Content>
-                <Title>Welcome to PixelGrid</Title>
-                <Subtitle>The AI-powered token where pixels connect humans, robots, and innovation.</Subtitle>
+                <Title>Welcome to BytePulse</Title>
+                <Subtitle>The decentralized token that powers the future of digital innovation, connecting people, technology, and blockchain.</Subtitle>
                 <div style={{ marginBottom: '15px' }}>
-                    <CTAButton onClick={handleClick} ref={buttonRef}>Join the Grid</CTAButton>
+                    <CTAButton onClick={handleClick} ref={buttonRef}>Join the Pulse</CTAButton>
                 </div>
             </Content>
             <Token ref={tokenRef}>

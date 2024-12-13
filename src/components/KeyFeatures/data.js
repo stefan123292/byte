@@ -1,22 +1,22 @@
 export const data = [
     {
-        title: "AI-Powered Launch",
+        title: "Decentralized Innovation",
         description:
-            "No pre-sale, no special privileges. PixelGrid is for everyone, powered by AI precision and transparency from day one.",
+            "BytePulse isn’t just a token—it’s the rhythm of digital progress, driving the future of decentralized innovation with transparency and precision from day one.",
     },
     {
-        title: "Community at the Core",
+        title: "Empowerment Through Technology",
         description:
-            "The PixelGrid community drives the ecosystem forward—connecting humans, robots, and innovation in a shared vision.",
+            "BytePulse puts power back in the hands of individuals, enabling them to shape the future of finance and technology in a decentralized ecosystem.",
     },
     {
-        title: "Vision for the Future",
+        title: "Future-Ready Blockchain",
         description:
-            "More than a trend, PixelGrid is building a smarter, interconnected future where AI and blockchain meet.",
+            "BytePulse is more than a blockchain project—it’s a movement. We’re building a smarter, decentralized future where technology and people are one.",
     },
     {
-        title: "Pixel-Perfect Progress",
+        title: "Precision in Every Block",
         description:
-            "Inspired by neural networks and digital pixels, PixelGrid shows that precision, creativity, and community can shape the crypto space.",
+            "From seamless transactions to precision in every block, BytePulse brings the highest standards of accuracy and security to the decentralized world.",
     },
 ];

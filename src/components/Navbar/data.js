@@ -1,7 +1,7 @@
 export const planets = [
     {
         id: 0,
-        name: 'About PixelGrid',
+        name: 'About BytePulse',
         path: '/about',
         color: 'hsl(210, 90%, 85%)',
         description: 'Discover what makes PixelGrid the most fun and engaging meme token in crypto.'

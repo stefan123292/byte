@@ -7,19 +7,22 @@ const GalaxyWenInfo = () => {
     return (
         <GalaxyWenWrapper>
             {/* What is PixelGrid */}
-            <h1 className="section-title">What is PixelGrid?</h1>
+            <h1 className="section-title">What is BytePulse?</h1>
             <p className="content">
-                PixelGrid isn’t just a meme token—it’s a gateway to the future of AI and blockchain.
-                Built on the concept of neural networks and inspired by the precision of digital pixels, PixelGrid connects humans and technology in a dynamic, decentralized ecosystem.
-                Why chase fleeting trends when you can be part of building a smarter, AI-powered future—one connection, one pixel, one block at a time?
+                BytePulse isn’t just another cryptocurrency—it’s the heartbeat of the future. Powered by cutting-edge
+                blockchain technology and driven by precision, BytePulse seamlessly connects the digital world with
+                decentralized innovation. It’s more than a token—it’s a movement that empowers individuals, drives
+                progress, and redefines what's possible in the digital age.
+                Join the Pulse. Embrace the rhythm of innovation. Together, we’re creating a smarter, decentralized
+                future—one block, one transaction, one revolution at a time.
             </p>
 
             {/* Call to Action Buttons */}
             <div className="buttons-container">
-                <a href="https://t.me/+lDlEvpHhZA9mYWUy" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/+alidq1Yn4OY3MmQy" target="_blank" rel="noopener noreferrer">
                     <img src={telegramIcon} alt="Telegram"/>
                 </a>
-                <a href="https://x.com/NeuroGrid1" target="_blank" rel="noopener noreferrer">
+                <a href="https://x.com/BytePulse1" target="_blank" rel="noopener noreferrer">
                     <img src={xIcon} alt="X"/>
                 </a>
                 <a href="#pump-fun">
